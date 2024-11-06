@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\julia\OneDrive\桌面\高階語言程式\HW3-2\HW3-2-5.35\HW3-2-5.35\main.c(18,9): warning C4477: 'printf' : 格式字串 '%11u' 需要 'unsigned int' 類型的引數，但 variadic 引數 2 的類型為 'unsigned __int64'
+      C:\Users\julia\OneDrive\桌面\高階語言程式\HW3-2\HW3-2-5.35\HW3-2-5.35\main.c(18,9):
+      請考慮在格式字串中使用 '%llu'
+      C:\Users\julia\OneDrive\桌面\高階語言程式\HW3-2\HW3-2-5.35\HW3-2-5.35\main.c(18,9):
+      請考慮在格式字串中使用 '%Iu'
+      C:\Users\julia\OneDrive\桌面\高階語言程式\HW3-2\HW3-2-5.35\HW3-2-5.35\main.c(18,9):
+      請考慮在格式字串中使用 '%I64u'
+  
+  HW3-2-5.35.vcxproj -> C:\Users\julia\OneDrive\桌面\高階語言程式\HW3-2\HW3-2-5.35\x64\Debug\HW3-2-5.35.exe
